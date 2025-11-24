@@ -1,4 +1,4 @@
-<h2 align="center">🌐 Portfolio Access</h2>
+<h2 align="center">🌐 Portfolio PROJECT HTML_CSS_JS Access</h2>
 
 <p align="center">
   Below are the two ways to explore this project.  

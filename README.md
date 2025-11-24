@@ -19,11 +19,10 @@
 
 <h3 align="center">🔹 Option 2: Access Source Code / Files</h3>
 
-<p align="center">
-  <a href="https://github.com/mohinraju/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/View_Repository_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/mohinraju/portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/View_Repository_Code-8000FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 
 ---
 
